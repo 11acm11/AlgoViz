@@ -1,6 +1,6 @@
 # AlgoViz
 Visualizing popular search algorithms with the help of the Python Pygame module by simulating a space where a robot tries to find the shortest path to the goal.
-With this program you can manipulate the grip map to create your own boundaries and determine where the start node and goal node is placed. You can download the executable file to play around and interact with the environment. Have fun 
+With this program you can manipulate the grip map to create your own boundaries and determine where the start node and goal node is placed. You can download the executable file to play around and interact with the environment. Have fun.
 
 **Make sure to take a look at the [controls](#controls) before hand.**
 
@@ -41,6 +41,6 @@ With this program you can manipulate the grip map to create your own boundaries 
       * Press 5 for Dijkstras Algorithm
       * Press 6 for Bidirectional Breadth First Search
    * Note: 
-      * The first two left clicks are the start and goal node respectively.
-      * The top and bottom of the grid are connected to each other.
+      * The first two left clicks are the start and goal node respectively
+      * The top and bottom of the grid are connected to each other
     
