@@ -2,7 +2,7 @@
 Visualizing popular search algorithms with the help of the Python Pygame module by simulating a space where a robot tries to find the shortest path to the goal.
 With this program you can manipulate the grip map to create your own boundaries and determine where the start node and goal node is placed. You can download the executable file to play around and interact with the environment. Have fun 
 
-**Make sure to take a look at the [controls](https://github.com/11acm11/AlgoViz/edit/main/README.md#controls) before hand.**
+**Make sure to take a look at the [controls](#controls) before hand.**
 
 # Algorithms include:
   * A* search
